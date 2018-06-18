@@ -1,0 +1,21 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Google should let user query for desired text",
+    "line": 1,
+    "id": "google-should-let-user-query-for-desired-text",
+    "tags": [],
+    "uri": "features/google-search.feature",
+    "elements": [
+      {
+        "id": "google-should-let-user-query-for-desired-text;google-search",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Google search",
+        "tags": [],
+        "type": "scenario",
+        "steps": []
+      }
+    ]
+  }
+]
